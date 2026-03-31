@@ -1,0 +1,17 @@
+{
+  "name": "不要慌",
+  "short_name": "不要慌",
+  "description": "认知觉察引导 - 记录想法、感受情绪、回归事实",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0c1a",
+  "theme_color": "#1e1b2e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
