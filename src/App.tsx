@@ -34,7 +34,7 @@ function App() {
     <div className="min-h-screen flex flex-col items-center justify-center px-4 py-12">
       <div className="max-w-xl w-full">
         <h1 className="text-center text-3xl md:text-4xl font-bold text-white mb-10 tracking-tight">
-          不要慌
+          Peacefully Asked
         </h1>
 
         {done ? (
